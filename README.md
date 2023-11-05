@@ -97,3 +97,8 @@
 </ul>
 
 
+### 출처 및 참고자료
+<ul>
+  <li>CODE : <a href="https://github.com/WongKinYiu/PyTorch_YOLOv4">https://github.com/WongKinYiu/PyTorch_YOLOv4</a></li>
+</ul>
+<strong>이 연구는 풍산(주) 미래기술연구센터의 지원을 받아 제작되었으며, 모든 코드에 관한 권한은 인하대학교 PCR Lab.에 있습니다</strong>
