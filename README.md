@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td><img src=".\images\DataSet\RAW\forest (1).png" alt="RAW_test" width="350"/></td>
-    <td><img src=".\images\DataSet\RAW\forest (77).png" alt="RAW_test" width="350"/></td>
+    <td><img src=".\images\DataSet\RAW\tank (77).png" alt="RAW_test" width="350"/></td>
   </tr>
 </table>
 
