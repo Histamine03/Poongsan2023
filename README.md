@@ -20,8 +20,8 @@
 <p> 데이터셋 예시
 <table>
   <tr>
-    <td><img src=".images\DataSet\RAW\forest (1).png" alt="RAW_test" width="350"/></td>
-    <td><img src=".images\DataSet\RAW\forest (77).png" alt="RAW_test" width="350"/></td>
+    <td><img src=".\images\DataSet\RAW\forest (1).png" alt="RAW_test" width="350"/></td>
+    <td><img src=".\images\DataSet\RAW\forest (77).png" alt="RAW_test" width="350"/></td>
   </tr>
 </table>
 
@@ -29,8 +29,8 @@
 <p> 데이터셋 예시
 <table>
   <tr>
-    <td><img src=".mages\DataSet\GAN\GAN_forest (38).png" alt="GAN_test" width="350"/></td>
-    <td><img src=".images\DataSet\GAN\seed0635.png" alt="GAN_test" width="350"/></td>
+    <td><img src=".\images\DataSet\GAN\GAN_forest (38).png" alt="GAN_test" width="350"/></td>
+    <td><img src=".\images\DataSet\GAN\seed0635.png" alt="GAN_test" width="350"/></td>
   </tr>
 </table>
 
@@ -38,8 +38,8 @@
 <p> 데이터셋 예시
 <table>
   <tr>
-    <td><img src=".images\DataSet\SMALL\img (1).png" alt="SMALL_test" width="350"/></td>
-    <td><img src=".images\DataSet\SMALL\img.png" alt="SMALL_test" width="350"/></td>
+    <td><img src=".\images\DataSet\SMALL\img (1).png" alt="SMALL_test" width="350"/></td>
+    <td><img src=".\images\DataSet\SMALL\img.png" alt="SMALL_test" width="350"/></td>
   </tr>
 </table>
 
@@ -47,7 +47,7 @@
 <p> 데이터셋 예시
 <table>
   <tr>
-    <td><img src=".images\DataSet\AUG\forest (1).png" alt="SMALL_test" width="233"/></td>
+    <td><img src=".\images\DataSet\AUG\forest (1).png" alt="SMALL_test" width="233"/></td>
     <td><img src=".\images\DataSet\AUG\forest (1)_blurred.png" alt="SMALL_test" width="233"/></td>
     <td><img src=".\images\DataSet\AUG\forest (1)_flipped.png" alt="SMALL_test" width="233"/></td>
   </tr>
