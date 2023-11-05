@@ -1,0 +1,6 @@
+names:
+- tank
+nc: 1
+test: ../PoongsanData/test_data_v2
+train: ../PoongsanData/raw_Data_GAN
+val: ../PoongsanData/raw_Data_GAN

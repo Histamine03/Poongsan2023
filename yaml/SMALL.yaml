@@ -1,0 +1,6 @@
+names:
+- tank
+nc: 1
+test: ../PoongsanData/test_data_v2
+train: ../PoongsanData/SMALL_Data
+val: ../PoongsanData/test_data_v2
